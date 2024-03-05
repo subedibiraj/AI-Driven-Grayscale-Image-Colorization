@@ -1,0 +1,6 @@
+/node_modules
+/scripts/myenv
+
+
+#ignoring the models
+/scripts/final_model/
